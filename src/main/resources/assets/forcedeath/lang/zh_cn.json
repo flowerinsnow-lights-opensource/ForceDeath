@@ -1,0 +1,6 @@
+{
+  "commands.forcedeath.success.simple": "已令 %s 死亡。",
+  "commands.forcedeath.success.multiple": "已令 %d 个实体死亡。",
+  "commands.forcedeath.failed.simple": "无法令 %s 死亡",
+  "commands.forcedeath.failed.multiple": "无法令 %d 个实体死亡"
+}

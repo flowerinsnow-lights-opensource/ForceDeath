@@ -1,0 +1,6 @@
+{
+  "commands.forcedeath.success.simple": "Make %s death.",
+  "commands.forcedeath.success.multiple": "Made %d entities death.",
+  "commands.forcedeath.failed.simple": "Unable to make %s death.",
+  "commands.forcedeath.failed.multiple": "Unable to make %d entities death."
+}
